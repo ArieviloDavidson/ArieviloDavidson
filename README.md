@@ -5,8 +5,9 @@
 
 <div style="display: flex" align="center">
   <a href="https://github.com/ArieviloDavidson">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ArieviloDavidson&layout=comact&theme=prussian&show_icons=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArieviloDavidson&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ArieviloDavidson&layout=comact&theme=dark&show_icons=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArieviloDavidson&layout=compact&langs_count=7&theme=dark"/>
+  <img heigth="200" src="https://github-readme-stats.vercel.app/api/pin/?username=ArieviloDavidson&repo=Codes-C-Cpp&cache_seconds=86400&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -29,4 +30,4 @@
  	<a href="https://www.twitch.tv/pretoanaoo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:davidsondodc2106@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-</div>
+  </div>
