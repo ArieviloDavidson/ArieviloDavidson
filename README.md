@@ -7,7 +7,6 @@
   <a href="https://github.com/ArieviloDavidson">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ArieviloDavidson&layout=comact&theme=dark&show_icons=true"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArieviloDavidson&layout=compact&langs_count=7&theme=dark"/>
-  <img heigth="200" src="https://github-readme-stats.vercel.app/api/pin/?username=ArieviloDavidson&repo=Codes-C-Cpp&cache_seconds=86400&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
