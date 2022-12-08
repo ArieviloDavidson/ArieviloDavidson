@@ -3,10 +3,10 @@
 - 🌱 Estudando FRONT-END
 - 💬 Pergunte-me sobre C, C++ !
 
-<div align="center">
+<div style="display: flex" align="center">
   <a href="https://github.com/ArieviloDavidson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArieviloDavidson&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ArieviloDavidson&layout=comact&theme=prussian&show_icons=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArieviloDavidson&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
   <div style="display: inline_block"><br>
