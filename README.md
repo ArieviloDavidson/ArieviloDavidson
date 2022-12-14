@@ -1,7 +1,7 @@
 ## Hello World! Eu sou Davidson Oliveira! 
 
-- 🌱 Estudando FRONT-END
-- 💬 Pergunte-me sobre C, C++ !
+- 🌱 Estudando FRONT-END, BACK-END !
+- 💬 Pergunte-me sobre C, C++, Python !
 
 <div style="display: flex" align="center">
   <a href="https://github.com/ArieviloDavidson">
