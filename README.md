@@ -1,7 +1,7 @@
 ## Hello World! Eu sou Davidson Oliveira! 
 
-- 🌱 Estudando FRONT-END, BACK-END !
-- 💬 Pergunte-me sobre C, C++, Python !
+- 🌱 Estudando FRONT-END, DATA SCIENCE AND CLOUD (GCP) !
+- 💬 Pergunte-me sobre Python, ML AND DATA ENGINEERING!
 
 <div style="display: flex" align="center">
   <a href="https://github.com/ArieviloDavidson">
