@@ -19,6 +19,7 @@
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
+  <img alt="Databricks" height="30" width="40" src="https://www.svgrepo.com/show/330261/databricks.svg">
 </div>
 
 <h2 align="center">Vamos nos conectar?</h2>
