@@ -19,7 +19,8 @@
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
-  <img alt="Databricks" height="30" width="40" src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1bx1742748751212id64Mup7acyyWOMz6N&t=1661139048407g">
+  <img alt="Databricks" height="30" width="40" src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bx1742748751213id64Mup7ac_pAZWGV5&t=1668081624532">
+  <img alt="GCP" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg">
 </div>
 
 <h2 align="center">Vamos nos conectar?</h2>
