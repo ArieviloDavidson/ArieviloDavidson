@@ -18,7 +18,7 @@
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
+  <img alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Databricks-c40eaf44_%281%29.png?20240410133729">
   <img alt="Databricks" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdatabricks&psig=AOvVaw2JBzPdNNM8ayPHJ7SXnGty&ust=1744822228634000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiGn72_2owDFQAAAAAdAAAAABAE">
   <img alt="GCP" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg">
 </div>
