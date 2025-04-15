@@ -19,7 +19,7 @@
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Databricks-c40eaf44_%281%29.png?20240410133729">
-  <img alt="Databricks" height="30" width="40" src="">
+<!--   <img alt="Databricks" height="30" width="40" src=""> -->
   <svg fill="#ff0000" viewBox="0 0 24 24" role="img" xmlns="http://www.w3.org/2000/svg" stroke="#ff0000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M.95 14.184 12 20.403l9.919-5.55v2.21L12 22.662l-10.484-5.96-.565.308v.77L12 24l11.05-6.218v-4.317l-.515-.309L12 19.118l-9.867-5.653v-2.21L12 16.805l11.05-6.218V6.32l-.515-.308L12 11.974 2.647 6.681 12 1.388l7.76 4.368.668-.411v-.566L12 0 .95 6.27v.72L12 13.207l9.919-5.55v2.26L12 15.52 1.516 9.56l-.565.308z"></path></g></svg>
   <img alt="GCP" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg">
 </div>
