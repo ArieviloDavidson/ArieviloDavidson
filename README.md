@@ -1,6 +1,6 @@
 <h1 align="center">Bem-vindo ao meu GitHub!</h1>
 <h3 align="center">Eu me chamo Davidson Oliveira e estou sempre em busca de novas aventuras tecnológicas! 🚀</h3>
-<p align="center">Sou um eterno aprendiz, focado em <strong>Front-End</strong>, <strong>Data Science</strong> e <strong>Cloud (GCP)</strong>. Vamos trocar ideias sobre <strong>Python</strong>, <strong>Machine Learning</strong> e <strong>Data Engineering</strong>? 🌟</p>
+<p align="center">Sou um eterno aprendiz, focado em <strong>Front-End</strong>, <strong>Data Science</strong> e <strong>Cloud (GCP)</strong>. Vamos trocar ideias sobre <strong>Python</strong>, <strong>JavaScript</strong> e <strong>Data Engineering</strong>? 🌟</p>
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/ArieviloDavidson">
