@@ -111,8 +111,8 @@ Aqui estão alguns dos projetos web recentes desenvolvidos com foco em performan
 
 <div align="center">
   <a href="https://github.com/ArieviloDavidson">
-    <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=ArieviloDavidson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Davidson" />
-    <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArieviloDavidson&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+    <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=ArieviloDavidson&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&border_color=e1e4e8&count_private=true" alt="Estatísticas do GitHub de Davidson" />
+    <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArieviloDavidson&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=e1e4e8" alt="Linguagens mais utilizadas" />
   </a>
 </div>
 
